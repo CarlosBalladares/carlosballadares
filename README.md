@@ -10,5 +10,6 @@ Im a software developer who currently specializes on front end web.
 - 📫 How to reach me: dm me on [🐦twitter](https://twitter.com/_carlosbf_) or [💼 linkedin](https://www.linkedin.com/in/carlosbf/)
 
 
+![](https://komarev.com/ghpvc/?carlosballadares&color=green)
 
 
