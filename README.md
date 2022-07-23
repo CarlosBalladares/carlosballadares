@@ -7,7 +7,7 @@ Im a software developer who currently specializes on front end web.
 - 🌱 I’m currently learning [tauri](https://github.com/tauri-apps/tauri)
 - 👯 I’m looking to collaborate on typescript or rust projects, reach out to me :)
 - 💬 Ask me about react and front end related problems.
-- 📫 How to reach me: carlosbf@protonmail.com 
+- 📫 How to reach me: dm me on [🐦twitter](https://twitter.com/_carlosbf_)
 
 
 
